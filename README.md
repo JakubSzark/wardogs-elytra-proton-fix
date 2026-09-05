@@ -1,6 +1,6 @@
 # WARDOGS Playtest — Elytra Anti-Cheat on Linux (Steam / Proton)
 
-# USING THIS MIGHT GET YOU A BAN, USE AT YOUR OWN RISK 
+# THIS NO LONGER WORKS BECAUSE OF BULKHEAD SERVER SIDE CHANGES
 
 ## The problem
 
