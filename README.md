@@ -1,5 +1,7 @@
 # WARDOGS Playtest — Elytra Anti-Cheat on Linux (Steam / Proton)
 
+# USING THIS MIGHT GET YOU A BAN, USE AT YOUR OWN RISK 
+
 ## The problem
 
 On Windows the game boots through `WardogsLauncher-Shipping.exe`, which starts the
